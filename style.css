@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .heading{
+    font-size: 3rem;
+  }
+  
+  .time {
+    font-size: 3.5rem;
+  }
+  
+  .btn-container {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .button {
+    font-size: 2rem;
+  }
+  
+  .button:hover {
+    cursor: pointer;
+  }
